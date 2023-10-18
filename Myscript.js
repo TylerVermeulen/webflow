@@ -1,1 +1,1 @@
-alert("welkom op mijn pagina");
+alert("welkom op mijn pagina veel plezier");
